@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="C:\Users\Camilo\Desktop\newScrollGallery\img"
+   sodipodi:docname="gardientes telefono.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4120">
+      <stop
+         style="stop-color:#3d3b51;stop-opacity:1;"
+         offset="0"
+         id="stop4122" />
+      <stop
+         id="stop4128"
+         offset="0.66587394"
+         style="stop-color:#737684;stop-opacity:1;" />
+      <stop
+         style="stop-color:#798fd7;stop-opacity:1;"
+         offset="1"
+         id="stop4130" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4124" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4108">
+      <stop
+         style="stop-color:#d3d3d3;stop-opacity:1;"
+         offset="0"
+         id="stop4110" />
+      <stop
+         id="stop4116"
+         offset="0.31034482"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#cfcfcf;stop-opacity:1;"
+         offset="0.70273483"
+         id="stop4118" />
+      <stop
+         style="stop-color:#d3d3d3;stop-opacity:1;"
+         offset="1"
+         id="stop4112" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4108"
+       id="linearGradient4114"
+       x1="108.57143"
+       y1="538.07648"
+       x2="757.14288"
+       y2="535.2193"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0015333,0,0,1.0286926e-2,-40.628689,39.533228)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4120"
+       id="linearGradient4126"
+       x1="409.75137"
+       y1="109.03136"
+       x2="411.74783"
+       y2="593.32635"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2487589e-2,0,0,1.1143847,101.13217,-12.971446)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="99.809037"
+     inkscape:cy="766.04174"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="737"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient4114);fill-opacity:1;stroke:none;stroke-width:0.11232325;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2160"
+       width="649.45917"
+       height="10.403397"
+       x="45.270424"
+       y="40.719032"
+       ry="0.039322931"
+       inkscape:export-filename="C:\Users\Camilo\Desktop\newScrollGallery\img\png-patterns\gradienteipod.png"
+       inkscape:export-xdpi="55.430733"
+       inkscape:export-ydpi="55.430733" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4126);fill-opacity:1;stroke:none;stroke-width:0.11905112;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2164"
+       width="6.7788625"
+       height="525.34253"
+       x="102.41667"
+       y="109.06457"
+       ry="0"
+       inkscape:export-filename="C:\Users\Camilo\Desktop\newScrollGallery\img\png-patterns\gradientepantalla.png"
+       inkscape:export-xdpi="68.526718"
+       inkscape:export-ydpi="68.526718" />
+    <rect
+       style="opacity:1;fill:#f40084;fill-opacity:1;stroke:#93ff4b;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2166"
+       width="520"
+       height="320"
+       x="120"
+       y="683.79071"
+       ry="32.394039"
+       rx="120" />
+  </g>
+</svg>

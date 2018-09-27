@@ -1,0 +1,16 @@
+Instrucciones para la configuracion o montaje de un album virual:
+La aplicacion esta estruturada por una serie de directorios, en los cuales se encuentran lo ficheros de codigo necesario e imagenes y otros recursos necesarios para su correcto funcionamiento.el fichero de ejecucion se denomina album.html(Se encuentra en el directorio raiz al mismo nivel que los directorios Pictures,img,css,js,config)
+Para los usuarios en este caso el cliente que va montar el album solamente interactuara con un directorio(Pictures)
+en el mismo hay 5 subdirectorios los cuales se corresponden a las diferentes secciones de fotos del album.Ej: el subdir. Favoritas se corresponde a la seccion mis Favoritas del menu de la aplicacion, el mismo principio se aplica para las diferentes secciones del menu y sus correspondientes directorios asociados por el nombre.
+La aplicaion requiere de una imagen de pequeño formato(ancho 130px X alto cualquiera pero debe ser uniforme para todas se recomienda 90 pixeles) que se utilizara como el preview de la imagen de tamaño real.Las imagenes de preview o previsualizacion *tienen que cumplir los siguientes requisitos:
+-Encontrarse en el mismo directorio que la imagen en tamaño real.
+-Tener el mismo nombre que la imagen en tamaño real seguido por el termino  _Thumbs .Ej imagen preview : tata_Thumbs.jpg   imagen tamaño real tata.jpg.
+Se tiene que respetar la mayuscula en _Thumbs.
+Las restricciones anteriores son necesarias para que el programa pudea asociar la imagen preview con la imagen en tamaño real. 
+Dicha asociacio se realiza mediante una entrada en el fichero XML imagenes_config.xml ubicado en el directorio config.el sigt ejemplo ilustra la realacion en el fichero
+<?xml version="1.0" encoding="utf-8"?>
+<Imagenes xmlns="http://mialbum15/XmlSquemaListaImagenes">
+  <Imagen src_Thumbs="./Pictures/Favoritas/Trabajo -Fotos/test1300-200_Thumbs.JPG" name="test1300-200_" src_Picture="./Pictures/Favoritas/Trabajo -Fotos/test1300-200.JPG" section="Favoritas" />  
+</Imagenes>
+la entrada  imagen relaciona la imagen preview src_Thumbs="./Pictures/Favoritas/Trabajo -Fotos/test1300-200_Thumbs.JPG" con la imagen tamaño real src_Picture="./Pictures/Favoritas/Trabajo -Fotos/test1300-200.JPG" ademas se especifica a la seccion que pertenece section="Favoritas" y se provee el nombre en otro atributo para facilitar el acceso al mismo desde el codigo name="test1300-200_". como se supone escribir esto mano para un album de 70 fotos es una tarea tediosa y con gran probabilidad de errores humanos por tanto se enttrega una aplicacion que automatiza el proceso completo. 
+

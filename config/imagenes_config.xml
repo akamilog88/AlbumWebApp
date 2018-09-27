@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Imagenes xmlns="http://mialbum15/XmlSquemaListaImagenes">
+  <Imagen src_Thumbs="./Pictures/Familia/rg_Thumbs.jpg" name="rg_" src_Picture="./Pictures/Familia/rg.JPG" section="Familia" />
+  <Imagen src_Thumbs="./Pictures/Familia/S4020328_Thumbs.jpg" name="S4020328_" src_Picture="./Pictures/Familia/S4020328.JPG" section="Familia" />
+  <Imagen src_Thumbs="./Pictures/Familia/wendy11_Thumbs.jpg" name="wendy11_" src_Picture="./Pictures/Familia/wendy11.JPG" section="Familia" />
+  <Imagen src_Thumbs="./Pictures/Familia/wendy13_Thumbs.jpg" name="wendy13_" src_Picture="./Pictures/Familia/wendy13.JPG" section="Familia" />
+  <Imagen src_Thumbs="./Pictures/Familia/wendy35_Thumbs.jpg" name="wendy35_" src_Picture="./Pictures/Familia/wendy35.JPG" section="Familia" />
+  <Imagen src_Thumbs="./Pictures/Familia/wendy6_Thumbs.jpg" name="wendy6_" src_Picture="./Pictures/Familia/wendy6.JPG" section="Familia" />
+  <Imagen src_Thumbs="./Pictures/Familia/wendy_Thumbs.jpg" name="wendy_" src_Picture="./Pictures/Familia/wendy.JPG" section="Familia" />
+  <Imagen src_Thumbs="./Pictures/Fiesta/amigos476_Thumbs.jpg" name="amigos476_" src_Picture="./Pictures/Fiesta/amigos476.JPG" section="Fiesta" />
+  <Imagen src_Thumbs="./Pictures/Fiesta/a_Thumbs.jpg" name="a_" src_Picture="./Pictures/Fiesta/a.JPG" section="Fiesta" />
+  <Imagen src_Thumbs="./Pictures/Fiesta/IMG_4256_Thumbs.jpg" name="IMG_4256_" src_Picture="./Pictures/Fiesta/IMG_4256.JPG" section="Fiesta" />
+  <Imagen src_Thumbs="./Pictures/Fiesta/IMG_4288_Thumbs.jpg" name="IMG_4288_" src_Picture="./Pictures/Fiesta/IMG_4288.JPG" section="Fiesta" />
+  <Imagen src_Thumbs="./Pictures/Fiesta/IMG_4307_Thumbs.jpg" name="IMG_4307_" src_Picture="./Pictures/Fiesta/IMG_4307.JPG" section="Fiesta" />
+  <Imagen src_Thumbs="./Pictures/Fiesta/IMG_4324_Thumbs.jpg" name="IMG_4324_" src_Picture="./Pictures/Fiesta/IMG_4324.JPG" section="Fiesta" />
+  <Imagen src_Thumbs="./Pictures/Fiesta/Irmi acabada de comer_Thumbs.jpg" name="Irmi acabada de comer_" src_Picture="./Pictures/Fiesta/Irmi acabada de comer.JPG" section="Fiesta" />
+  <Imagen src_Thumbs="./Pictures/Fiesta/rg_Thumbs.jpg" name="rg_" src_Picture="./Pictures/Fiesta/rg.JPG" section="Fiesta" />
+</Imagenes>
